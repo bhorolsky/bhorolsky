@@ -1,9 +1,9 @@
 # bhorolsky
 
 ## Active Projects:
-- **[imvox](https://codeberg.org/bhorolsky/imvox)** - A modular runtime with plugins... that I'm using to eventually create music software for
+- **[imvox](https://codeberg.org/imvox-project/imvox)** - A modular runtime with plugins... that I'm using to eventually create music software for
  Voicevox and other synthesizers, and yeah, to make Zundamon music with it (probably)
-- **[wakeslip](https://codeberg.org/bhorolsky/wakeslip)** - A game about dreams and absurdity... which isn't finished yet—no, don't play it!! It's not a game!
+- **[wakeslip](https://codeberg.org/wakeslip-game/wakeslip)** - A game about dreams and absurdity... which isn't finished yet—no, don't play it!! It's not a game!
 - **[PcHub](https://github.com/bhorolsky/PcHub)** - A C# Winforms utility I wrote when I was just starting out in programming (though I’m still just starting out...),
  there won’t be any updates because I don’t even know how it works anymore!!
 
